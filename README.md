@@ -78,9 +78,7 @@ npm run build
 🌐 Deploy (Vercel)
 
 Aplicação publicada em:
-👉 https://SEU-PROJETO.vercel.app
-
-(substitua pela sua URL do Vercel)
+👉 [https://react-vercel-app-rho.vercel.app/]
 
 🖼️ Screenshots
 🏠 Tela Inicial (Home)
